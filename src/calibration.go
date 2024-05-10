@@ -47,5 +47,5 @@ func Calibration() {
 		sum += val
 	}
 
-	fmt.Printf("Finished Calibration with value: %v", sum)
+	fmt.Printf("Finished Calibration with value: %v\n", sum)
 }
